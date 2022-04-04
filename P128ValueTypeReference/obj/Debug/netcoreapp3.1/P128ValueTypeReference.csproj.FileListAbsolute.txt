@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\bin\Debug\netcoreapp3.1\P128ValueTypeReference.exe
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\bin\Debug\netcoreapp3.1\P128ValueTypeReference.deps.json
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\bin\Debug\netcoreapp3.1\P128ValueTypeReference.runtimeconfig.json
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\bin\Debug\netcoreapp3.1\P128ValueTypeReference.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\bin\Debug\netcoreapp3.1\P128ValueTypeReference.dll
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\bin\Debug\netcoreapp3.1\P128ValueTypeReference.pdb
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.AssemblyInfo.cs
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.dll
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.pdb
+C:\Users\memme\Desktop\P128\Task\P128ValueTypeReference\obj\Debug\netcoreapp3.1\P128ValueTypeReference.genruntimeconfig.cache
